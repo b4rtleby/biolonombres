@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260515003015IR9XOM</value>
+    <value>202605150100096693WT</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260515003015RVX86N</value>
+    <value>202605150100095ZMGBV</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -850,6 +850,62 @@
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
+      <odeBlockId>block-1778798496267-uh7ge1lij</odeBlockId>
+      <blockName>Consideraciones a tener en cuenta</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
+          <odeBlockId>block-1778798496267-uh7ge1lij</odeBlockId>
+          <odeIdeviceId>idevice-1778798496265-94p771te1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A la hora de diseñar y codificar el videojuego, tened presentes las siguientes recomendaciones:</p>
+<ul>
+<li>El videojuego está destinado a estudiantes de vuestro mismo nivel educativo (Biología de 3ºESO), con el ánimo de hacerles más ameno el estudio de las partes de la neurona. </li>
+<li>Para facilitaros la tarea, reciclad el programa proporcionado y adaptarlo a la nueva temática. Una vez adaptado, explorad nuevas mecánicas de juego, como -por ejemplo- obtener más puntos si se responde rápido (y bien, claro).</li>
+<li>Tened en cuenta las distintas capacidades de las personas que accedan al juego, por lo que cuidad la accesibildad:
+<ul>
+<li>Definid tiempos holgados para leer los diálogos.</li>
+<li>No uséis fondos recargados que puedan interferir en la lectura.</li>
+<li>Considerad el uso de sonidos que marquen el inicio de un diálogo nuevo.</li>
+<li title="">Emplead combinaciones de colores con alto contraste. Podéis usar <a href="https://app.contrast-finder.org/?lang=es">este recurso</a> como ayuda.</li>
+</ul>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778798496265-94p771te1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A la hora de diseñar y codificar el videojuego, tened presentes las siguientes recomendaciones:</p>\n<ul>\n<li>El videojuego está destinado a estudiantes de vuestro mismo nivel educativo (Biología de 3ºESO), con el ánimo de hacerles más ameno el estudio de las partes de la neurona. </li>\n<li>Para facilitaros la tarea, reciclad el programa proporcionado y adaptarlo a la nueva temática. Una vez adaptado, explorad nuevas mecánicas de juego, como -por ejemplo- obtener más puntos si se responde rápido (y bien, claro).</li>\n<li>Tened en cuenta las distintas capacidades de las personas que accedan al juego, por lo que cuidad la accesibildad:\n<ul>\n<li>Definid tiempos holgados para leer los diálogos.</li>\n<li>No uséis fondos recargados que puedan interferir en la lectura.</li>\n<li>Considerad el uso de sonidos que marquen el inicio de un diálogo nuevo.</li>\n<li title=\"\">Emplead combinaciones de colores con alto contraste. Podéis usar <a href=\"https://app.contrast-finder.org/?lang=es\">este recurso</a> como ayuda.</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
