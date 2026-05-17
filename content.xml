@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260514225612IU93BM</value>
+    <value>20260517204013N1PXUQ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260514225612V4X4PV</value>
+    <value>20260517204013737W2W</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778786702575</value>
+    <value>1779025215715</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mp5vobrv-hfctni0q9</odePageId>
+  <odePageId>page-mp9tohok-9nawpqmd8</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Desarrollo</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobrv-hfctni0q9</odePageId>
+      <odePageId>page-mp9tohok-9nawpqmd8</odePageId>
       <odeBlockId>block-1778791918532-3j0anv5il</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobrv-hfctni0q9</odePageId>
+          <odePageId>page-mp9tohok-9nawpqmd8</odePageId>
           <odeBlockId>block-1778791918532-3j0anv5il</odeBlockId>
           <odeIdeviceId>idevice-1778791918529-ib58clrr3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -168,6 +168,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778791918529-ib58clrr3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidas/os a esta situación de aprendizaje. Navegad por los epígrafes en ordena para conocer y comprender en qué consiste.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -175,8 +187,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobry-6lojdne55</odePageId>
-  <odeParentPageId>page-mp5vobrv-hfctni0q9</odeParentPageId>
+  <odePageId>page-mp9tohor-rcns5f3wn</odePageId>
+  <odeParentPageId>page-mp9tohok-9nawpqmd8</odeParentPageId>
   <pageName>Introducción</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -219,7 +231,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobry-6lojdne55</odePageId>
+      <odePageId>page-mp9tohor-rcns5f3wn</odePageId>
       <odeBlockId>block-1778011615549-is4982b5b</odeBlockId>
       <blockName>Plantemiento del problema</blockName>
       <iconName></iconName>
@@ -248,12 +260,12 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobry-6lojdne55</odePageId>
+          <odePageId>page-mp9tohor-rcns5f3wn</odePageId>
           <odeBlockId>block-1778011615549-is4982b5b</odeBlockId>
           <odeIdeviceId>idevice-1778011615545-04684o1xl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>¡Tenemos una misión! Ayudar a otras personas a aprenderse unos cuantos nombres de conjuntos y sistemas biológicos y sus diferentes partes o elementos.</p>
+    <p>¡Tenemos una <strong>misión</strong>! Ayudar a otras personas a aprenderse unos cuantos nombres de conjuntos y sistemas biológicos y sus diferentes partes o elementos.</p>
 <p>Para ello, vamos a realizar tres productos:</p>
 <ol>
 <li>Una infografía.</li>
@@ -262,7 +274,7 @@
 </ol>
 <p>Para conocer detalles de cada uno, visita los apartados correspondientes.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011615545-04684o1xl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Tenemos una misión! Ayudar a otras personas a aprenderse unos cuantos nombres de conjuntos y sistemas biológicos y sus diferentes partes o elementos.</p>\n<p>Para ello, vamos a realizar tres productos:</p>\n<ol>\n<li>Una infografía.</li>\n<li>Un videojuego.</li>\n<li>Un \"electro\".</li>\n</ol>\n<p>Para conocer detalles de cada uno, visita los apartados correspondientes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011615545-04684o1xl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Tenemos una <strong>misión</strong>! Ayudar a otras personas a aprenderse unos cuantos nombres de conjuntos y sistemas biológicos y sus diferentes partes o elementos.</p>\n<p>Para ello, vamos a realizar tres productos:</p>\n<ol>\n<li>Una infografía.</li>\n<li>Un videojuego.</li>\n<li>Un \"electro\".</li>\n</ol>\n<p>Para conocer detalles de cada uno, visita los apartados correspondientes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -284,8 +296,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobs2-ad1fxc3u2</odePageId>
-  <odeParentPageId>page-mp5vobrv-hfctni0q9</odeParentPageId>
+  <odePageId>page-mp9tohot-7ii2raeva</odePageId>
+  <odeParentPageId>page-mp9tohok-9nawpqmd8</odeParentPageId>
   <pageName>1ª sesión </pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -320,7 +332,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobs2-ad1fxc3u2</odePageId>
+      <odePageId>page-mp9tohot-7ii2raeva</odePageId>
       <odeBlockId>block-1778109501282-oaqze1up3</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -349,22 +361,22 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobs2-ad1fxc3u2</odePageId>
+          <odePageId>page-mp9tohot-7ii2raeva</odePageId>
           <odeBlockId>block-1778109501282-oaqze1up3</odeBlockId>
           <odeIdeviceId>idevice-1778109501280-vewrsc5is</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>55 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>En esta primera sesión:</p>
 <ol>
-<li>Estáis accediendo a esta web.</li>
-<li>Resolveréis los retos de cada uno de los apartados (podéis repartirlos para acabar antes). </li>
-<li>Descubriréis las características de cada uno de los productos que habréis de confeccionar. </li>
-<li>Os repartiréis los productos: uno por persona.</li>
-<li>Identificaréis las tareas para cada uno de ellos.</li>
-<li>Priorizaréis dichas tareas.</li>
+<li>Habéis accedido a esta <strong>web</strong>.</li>
+<li><strong>Resolveréis los retos</strong> de cada uno de los apartados (podéis repartirlos para acabar antes). </li>
+<li><strong>Descubriréis</strong> las características de cada uno de <strong>los productos finales</strong> que habréis de confeccionar. </li>
+<li>Os repartiréis los productos: <strong>uno por persona</strong>.</li>
+<li><strong>Identificaréis</strong> las <strong>tareas</strong> para cada uno de ellos.</li>
+<li><strong>Priorizaréis</strong> dichas tareas.</li>
 </ol></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778109501280-vewrsc5is","textInfoDurationInput":"55 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>En esta primera sesión:</p>\n<ol>\n<li>Estáis accediendo a esta web.</li>\n<li>Resolveréis los retos de cada uno de los apartados (podéis repartirlos para acabar antes). </li>\n<li>Descubriréis las características de cada uno de los productos que habréis de confeccionar. </li>\n<li>Os repartiréis los productos: uno por persona.</li>\n<li>Identificaréis las tareas para cada uno de ellos.</li>\n<li>Priorizaréis dichas tareas.</li>\n</ol></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778109501280-vewrsc5is","textInfoDurationInput":"55 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>55 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>En esta primera sesión:</p>\n<ol>\n<li>Habéis accedido a esta <strong>web</strong>.</li>\n<li><strong>Resolveréis los retos</strong> de cada uno de los apartados (podéis repartirlos para acabar antes). </li>\n<li><strong>Descubriréis</strong> las características de cada uno de <strong>los productos finales</strong> que habréis de confeccionar. </li>\n<li>Os repartiréis los productos: <strong>uno por persona</strong>.</li>\n<li><strong>Identificaréis</strong> las <strong>tareas</strong> para cada uno de ellos.</li>\n<li><strong>Priorizaréis</strong> dichas tareas.</li>\n</ol></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -386,8 +398,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobs5-shnil6ntn</odePageId>
-  <odeParentPageId>page-mp5vobs2-ad1fxc3u2</odeParentPageId>
+  <odePageId>page-mp9tohow-w9irbfv3h</odePageId>
+  <odeParentPageId>page-mp9tohot-7ii2raeva</odeParentPageId>
   <pageName>Infografía</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -422,7 +434,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobs5-shnil6ntn</odePageId>
+      <odePageId>page-mp9tohow-w9irbfv3h</odePageId>
       <odeBlockId>block-1778104047842-xqtxewi5t</odeBlockId>
       <blockName>Buscar palabras</blockName>
       <iconName></iconName>
@@ -451,7 +463,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobs5-shnil6ntn</odePageId>
+          <odePageId>page-mp9tohow-w9irbfv3h</odePageId>
           <odeBlockId>block-1778104047842-xqtxewi5t</odeBlockId>
           <odeIdeviceId>idevice-1778104047839-z9w1mfqkm</odeIdeviceId>
           <odeIdeviceTypeName>word-search</odeIdeviceTypeName>
@@ -486,7 +498,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5vobs5-shnil6ntn</odePageId>
+      <odePageId>page-mp9tohow-w9irbfv3h</odePageId>
       <odeBlockId>block-1778104529164-kay3ea9ob</odeBlockId>
       <blockName>Candado</blockName>
       <iconName></iconName>
@@ -515,7 +527,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobs5-shnil6ntn</odePageId>
+          <odePageId>page-mp9tohow-w9irbfv3h</odePageId>
           <odeBlockId>block-1778104529164-kay3ea9ob</odeBlockId>
           <odeIdeviceId>idevice-1778104529162-z8b8hrg0e</odeIdeviceId>
           <odeIdeviceTypeName>padlock</odeIdeviceTypeName>
@@ -566,11 +578,142 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp9tohow-w9irbfv3h</odePageId>
+      <odeBlockId>block-1778796116431-87dh2aikp</odeBlockId>
+      <blockName>Instrucciones para realizar una infografía de calidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9tohow-w9irbfv3h</odePageId>
+          <odeBlockId>block-1778796116431-87dh2aikp</odeBlockId>
+          <odeIdeviceId>idevice-1778796116429-2veqg0vgz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tened en cuenta los siguientes aspectos a la hora de realizar la infografía:</p>
+<ul>
+<li>Una infografía será sobre las <strong>partes de la neurona</strong>, la otra, sobre los <strong>órganos del cuerpo humano</strong>. Están destinadas a servir como <strong>ayuda al estudio</strong> para estudiantes de vuestro mismo nivel educativo (Biología de 3ºESO). </li>
+<li>Completad la información pertinente para cada parte de la infografía <strong>buscando y referenciando</strong> sitios web contrastables y de calidad, como Wikipedia, la web de la Organización Mundial de la Salud (OMS) o similares. Para referenciar, incluid un hiperenlace en el texto. Si usáis IA para generar texto, incluid en el <em>prompt</em> que use y aporte referencias que luego podáis revisar y enlazar pertinentemente.<br /></li>
+<li>Recordad visitar únicamnete sitios web que usen el protocolo <em>HTTPS. P</em>odéis identificar esto fácilmente observando si aparece el icono de un candado a la izquierda de la dirección web. </li>
+<li>No es necesario que hagáis un libro de texto: lo que buscamos es aportar de un vistazo la información más importante. A saber:
+<ul>
+<li>Ubicar de forma fácil y clara cada elemento.</li>
+<li>Leer fácilmente el nombre</li>
+<li>Un pequeño texto descriptivo de la función de dicho elemento, con los <strong>conceptos clave en negrita</strong>.</li>
+<li title="">Cuidad los tamaños de letra y usad combinaciones de colores con alto contraste para hacer la creación accesible. A este efecto, podéis ayudaros de <a href="https://app.contrast-finder.org/?lang=es">este recurso</a>.</li>
+</ul>
+</li>
+<li title="">Recordad que la plataforma Genial.ly tiene videotutoriales muy sencillos a los que podéis acceder desde el <a href="https://help.genially.com/lang/es/?from=profile_menu">centro de ayuda</a>. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778796116429-2veqg0vgz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tened en cuenta los siguientes aspectos a la hora de realizar la infografía:</p>\n<ul>\n<li>Una infografía será sobre las <strong>partes de la neurona</strong>, la otra, sobre los <strong>órganos del cuerpo humano</strong>. Están destinadas a servir como <strong>ayuda al estudio</strong> para estudiantes de vuestro mismo nivel educativo (Biología de 3ºESO). </li>\n<li>Completad la información pertinente para cada parte de la infografía <strong>buscando y referenciando</strong> sitios web contrastables y de calidad, como Wikipedia, la web de la Organización Mundial de la Salud (OMS) o similares. Para referenciar, incluid un hiperenlace en el texto. Si usáis IA para generar texto, incluid en el <em>prompt</em> que use y aporte referencias que luego podáis revisar y enlazar pertinentemente.<br /></li>\n<li>Recordad visitar únicamnete sitios web que usen el protocolo <em>HTTPS. P</em>odéis identificar esto fácilmente observando si aparece el icono de un candado a la izquierda de la dirección web. </li>\n<li>No es necesario que hagáis un libro de texto: lo que buscamos es aportar de un vistazo la información más importante. A saber:\n<ul>\n<li>Ubicar de forma fácil y clara cada elemento.</li>\n<li>Leer fácilmente el nombre</li>\n<li>Un pequeño texto descriptivo de la función de dicho elemento, con los <strong>conceptos clave en negrita</strong>.</li>\n<li title=\"\">Cuidad los tamaños de letra y usad combinaciones de colores con alto contraste para hacer la creación accesible. A este efecto, podéis ayudaros de <a href=\"https://app.contrast-finder.org/?lang=es\">este recurso</a>.</li>\n</ul>\n</li>\n<li title=\"\">Recordad que la plataforma Genial.ly tiene videotutoriales muy sencillos a los que podéis acceder desde el <a href=\"https://help.genially.com/lang/es/?from=profile_menu\">centro de ayuda</a>. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
-  <odeParentPageId>page-mp5vobs2-ad1fxc3u2</odeParentPageId>
+  <odePageId>page-1779040431666-hpqt6cy1e</odePageId>
+  <odeParentPageId>page-mp9tohow-w9irbfv3h</odeParentPageId>
+  <pageName>Tareas</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779040431666-hpqt6cy1e</odePageId>
+      <odeBlockId>block-1779040953743-ayrdbu36f</odeBlockId>
+      <blockName>Ordena</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779040431666-hpqt6cy1e</odePageId>
+          <odeBlockId>block-1779040953743-ayrdbu36f</odeBlockId>
+          <odeIdeviceId>idevice-1779040953739-3in8evlom</odeIdeviceId>
+          <odeIdeviceTypeName>sort</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="ordena-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1779040953739-3in8evlom" data-evaluationb="false" data-evaluationid="b58346b1-ebe1-4ae2-93f8-65394d5af222"></div><div class="ordena-feedback-game"></div><div class="ordena-instructions"><p>Aquí tienes, en orden, las diferentes tareas a realizar.</p>
+<ol>
+<li>Ordena cada frase siguiendo el orden correcto de las palabras.</li>
+<li>Anota cada frase en tu cuaderno. </li>
+<li>Desarrolla cada tarea en subtareas.</li>
+</ol></div><div class="ordena-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DD%E0%F6%F7%FC%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D3%E3%E7%7F%B2%E6%FB%F7%FC%F7%E1%BE%B2%F7%FC%B2%FD%E0%F6%F7%FC%BE%B2%FE%F3%E1%B2%F6%FB%F4%F7%E0%F7%FC%E6%F7%E1%B2%E6%F3%E0%F7%F3%E1%B2%F3%B2%E0%F7%F3%FE%FB%E8%F3%E0%BC%AE%BD%E2%AC%CE%FC%AE%FD%FE%AC%CE%FC%AE%FE%FB%AC%DD%E0%F6%F7%FC%F3%B2%F1%F3%F6%F3%B2%F4%E0%F3%E1%F7%B2%E1%FB%F5%E7%FB%F7%FC%F6%FD%B2%F7%FE%B2%FD%E0%F6%F7%FC%B2%F1%FD%E0%E0%F7%F1%E6%FD%B2%F6%F7%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%BC%AE%BD%FE%FB%AC%CE%FC%AE%FE%FB%AC%D3%FC%FD%E6%F3%B2%F1%F3%F6%F3%B2%F4%E0%F3%E1%F7%B2%F7%FC%B2%E6%E7%B2%F1%E7%F3%F6%F7%E0%FC%FD%BC2%AE%BD%FE%FB%AC%CE%FC%AE%FE%FB%AC%D6%F7%E1%F3%E0%E0%FD%FE%FE%F3%B2%F1%F3%F6%F3%B2%E6%F3%E0%F7%F3%B2%F7%FC%B2%E1%E7%F0%E6%F3%E0%F7%F3%E1%BC%AE%BD%FE%FB%AC%CE%FC%AE%BD%FD%FE%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%FA%E0%F3%E1%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%F1%F3%E0%F6%E1%B0%A8%C9%E9%B0%FB%F6%B0%A8%A3%AB%A5%A7%A3%AA%A6%A1%A4%AA%A7%A7%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%FA%E0%F3%E1%F7%B0%A8%B0%DB%FC%E4%F7%E1%E6%FB%F5%F3%B2%F7%FE%B2%E1%FB%E1%E6%F7%FF%F3%B2%F0%FB%FD%FEa%F5%FB%F1%FD%B2%EB%B2%E1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B2%F7%FE%B2%E4%FD%F1%F3%F0%E7%FE%F3%E0%FB%FD%B2%EB%B2%FE%F3%E1%B2%F4%E7%FC%F1%FB%FD%FC%F7%E1%B2%FFs%E1%B2%FB%FF%E2%FD%E0%E6%F3%FC%E6%F7%E1%BC%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%DA%FB%E6%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%F1%F3%E0%F6%E1%B0%A8%C9%E9%B0%FB%F6%B0%A8%A3%A1%A2%A2%AA%A2%A4%AB%AB%A1%A6%A5%A1%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%FA%E0%F3%E1%F7%B0%A8%B0%DD%E0%F5%F3%FC%FB%E8%F3%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%F7%FC%B2%F3%E2%F3%E0%E6%F3%F6%FD%E1%B2%F1%FE%F3%E0%FD%E1%B2%EB%B2%E0%F7%FE%F3%F1%FB%FD%FC%F3%B2%F1%F3%F6%F3%B2%F7%FE%F7%FF%F7%FC%E6%FD%B2%F1%FD%FC%B2%E1%E7%B2%F4%E7%FC%F1%FBa%FC%BC%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%DA%FB%E6%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%F1%F3%E0%F6%E1%B0%A8%C9%E9%B0%FB%F6%B0%A8%A3%A0%AA%A4%A0%A6%A2%A7%A5%A4%A0%A4%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%FA%E0%F3%E1%F7%B0%A8%B0%D6%FB%E1%F7c%F3%B2%FE%F3%B2%FB%FC%F4%FD%F5%E0%F3%F4%7F%F3%B2%F1%FD%FC%B2%FB%FFs%F5%F7%FC%F7%E1%BE%B2%F1%FD%FE%FD%E0%F7%E1%B2%EB%B2%F7%E1%E3%E7%F7%FF%F3%E1%B2%F4s%F1%FB%FE%F7%E1%B2%F6%F7%B2%F7%FC%E6%F7%FC%F6%F7%E0%BC%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%DA%FB%E6%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%F1%F3%E0%F6%E1%B0%A8%C9%E9%B0%FB%F6%B0%A8%A5%A4%A7%A6%A7%A4%A7%A2%A3%A3%AB%A6%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%FA%E0%F3%E1%F7%B0%A8%B0%D3c%F3%F6%F7%B2%F7%FE%F7%FF%F7%FC%E6%FD%E1%B2%FB%FC%E6%F7%E0%F3%F1%E6%FB%E4%FD%E1%BE%B2%F1%FD%FF%FD%B2%F0%FD%E6%FD%FC%F7%E1%BE%B2%F7%FC%FE%F3%F1%F7%E1%B2%FD%B2%E4%F7%FC%E6%F3%FC%F3%E1%B2%F1%FD%FC%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%F3%F6%FB%F1%FB%FD%FC%F3%FE%BC%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%DA%FB%E6%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%F1%F3%E0%F6%E1%B0%A8%C9%E9%B0%FB%F6%B0%A8%A6%A6%AA%A2%A1%A4%A6%A5%AB%A5%A2%A1%BE%B0%E6%EB%E2%F7%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%FA%E0%F3%E1%F7%B0%A8%B0%C0%F7%E4%FB%E1%F3%B2%E3%E7%F7%B2%E6%FD%F6%FD%B2%F4%E7%FC%F1%FB%FD%FC%F7%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%EB%B2%F1%FD%FF%E2%E0%E7%F7%F0%F3%B2%E3%E7%F7%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E1%F7%F3%B2%F1%FE%F3%E0%F3%B2%EB%B2h%E6%FB%FE%BC%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%DA%FB%E6%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BC%A7%BE%B0%FF%F3%EA%C5%FB%F6%E6%FA%B0%A8%E6%E0%E7%F7%BE%B0%F1%F3%E0%F6%DA%F7%FB%F5%FA%E6%B0%A8%A0%A2%A2%BE%B0%E1%E6%F3%E0%E6%D3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FE%FE%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E0%F6%F7%E0%F7%F6%D1%FD%FE%E7%FF%FC%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F5%F3%FF%F7%D1%FD%FE%E7%FF%FC%E1%B0%A8%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F0%A7%AA%A1%A6%A4%F0%A3%BF%F7%F0%F7%A3%BF%A6%F3%F7%A0%BF%AB%A1%F4%AA%BF%A4%A7%A1%AB%A6%F6%A7%F3%F4%A0%A0%A0%B0%BE%B0%E5%FD%E0%F6%D0%FD%E0%F6%F7%E0%B0%A8%E6%E0%E7%F7%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AB%A2%A6%A2%AB%A7%A1%A5%A1%AB%BF%A1%FB%FC%AA%F7%E4%FE%FD%FF%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%C6%E7%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D3%E6%E6%F7%FF%E2%E1%B0%A8%B03%DA%F3%E1%B2%F3%F5%FD%E6%F3%F6%FD%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%B3%B2%C2%E0%E7%F7%F0%F3%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%FA%E0%F3%E1%F7%E1%B0%A8%B03%DA%F3%E1%B2%FD%E0%F6%F7%FC%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E6%E1%B0%A8%B0%DB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%DC%F7%EA%E6%C2%FA%E0%F3%E1%F7%B0%A8%B0%C2%E0a%EA%FB%FF%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%E1%FB%E6%FB%FD%FC%E1%B0%A8%B0%C2%FD%E1%FB%F1%FB%FD%FC%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B0%BE%B0%FF%E1%F5%D3%FE%FE%DD%D9%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%C6%FD%F6%FD%B2%F1%FD%E0%E0%F7%F1%E6%FD%B23%D3%B2%E2%FD%E0%B2%FD%E6%E0%F3%B3%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C2%FA%E0%F3%E1%F7%E1%B0%A8%B0%D4%E0%F3%E1%F7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DD%E0%F6%F7%FC%F3%B0%EF%EF</div><div class="ordena-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
+  <odeParentPageId>page-mp9tohot-7ii2raeva</odeParentPageId>
   <pageName>Videojuego</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -605,7 +748,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
+      <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
       <odeBlockId>block-1778107554176-trj4mi3ej</odeBlockId>
       <blockName>Lista desordenada</blockName>
       <iconName></iconName>
@@ -633,44 +776,10 @@
         </odePagStructureProperty>
       </odePagStructureProperties>
       <odeComponents>
-        <odeComponent>
-          <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
-          <odeBlockId>block-1778107554176-trj4mi3ej</odeBlockId>
-          <odeIdeviceId>idevice-1778107554175-63ywwnoa9</odeIdeviceId>
-          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-sortableList" id="slidevice-1778107554175-63ywwnoa9" scorm=false>
-    <div class="game-evaluation-ids js-hidden" data-id="idevice-1778107554175-63ywwnoa9" data-evaluationb="false" data-evaluationid="d26a3de3-ec22-4e33-b9de-e8363b6dc11f"></div>
-    <div class="exe-sortableList-instructions"><p>A continuación tienes, desordenadas, la secuencia de un videojuego muy sencillo tal y como aparece en el diagrama de flujo que se elaboró para estructurar su funcionamiento y que puedes ver en el puzle siguiente.</p></div>
-    <ul class="exe-sortableList-list"><li>Inicio de juego</li><li>Declaración de variables.</li><li>Personaje: "Yo digo un nombre y tú lo señalas"</li><li>¿Quedan preguntas por responder? S/N</li><li>Programa: selecciona PREGUNTA aleatoria.</li><li>Personaje: dice PREGUNTA</li><li>Jugador/a: Responde</li><li>¿Respuesta correcta? Si es que sí, el personaje se alegra y el programa resta una pregunta por responder. Si es que no, el personaje se enfada.</li><li>¿Quedan preguntas por responder? Sí es que sí, sigue el juego; de lo contrario, se acaba.</li></ul>
-    <div style="display:none">
-        <p class="exe-sortableList-buttonText">Comprobar</p>
-        <p class="exe-sortableList-rightText">¡Correcto!</p>
-        <p class="exe-sortableList-wrongText">No es correcto... La respuesta correcta es:</p>
-    </div>
-    <div class="exe-scorm-message"></div>
-    
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"typeGame":"ScrambledList","instructions":"<p>A continuación tienes, desordenadas, la secuencia de un videojuego muy sencillo tal y como aparece en el diagrama de flujo que se elaboró para estructurar su funcionamiento y que puedes ver en el puzle siguiente.</p>","textAfter":"","afterElement":"","options":["Inicio de juego","Declaración de variables.","Personaje: \"Yo digo un nombre y tú lo señalas\"","¿Quedan preguntas por responder? S/N","Programa: selecciona PREGUNTA aleatoria.","Personaje: dice PREGUNTA","Jugador/a: Responde","¿Respuesta correcta? Si es que sí, el personaje se alegra y el programa resta una pregunta por responder. Si es que no, el personaje se enfada.","¿Quedan preguntas por responder? Sí es que sí, sigue el juego; de lo contrario, se acaba."],"time":0,"buttonText":"Comprobar","rightText":"¡Correcto!","wrongText":"No es correcto... La respuesta correcta es:","isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"d26a3de3-ec22-4e33-b9de-e8363b6dc11f","main":"slidevice-1778107554175-63ywwnoa9","msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Su puntuación","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Lista desordenada","msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgPlayStart":"Pulsa aquí para jugar","msgTime":"Tiempo por pregunta","msgCheck":"Comprobar","msgSaveScore":"Guardar la puntuación","msgTestFailed":"No has superado la prueba. Inténtalo de nuevo","msgRetryAttempts":"Has cometido %s errores. Te quedan %s intentos. ¿Quieres intentarlo de nuevo?"},"scorerp":0,"idevice":"idevice_node","showSolutions":true,"attemptsNumber":1,"id":"idevice-1778107554175-63ywwnoa9"}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
+      <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
       <odeBlockId>block-1778108315702-g7dnjtswc</odeBlockId>
       <blockName>Puzle</blockName>
       <iconName></iconName>
@@ -699,11 +808,11 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
+          <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
           <odeBlockId>block-1778108315702-g7dnjtswc</odeBlockId>
           <odeIdeviceId>idevice-1778108315700-dvxwk8xw4</odeIdeviceId>
           <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778108315700-dvxwk8xw4" data-evaluationb="false" data-evaluationid="d26a3de3-ec22-4e33-b9de-e8363b6dc11f"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve el siguiente puzles para obtener la contraseña necesaria para continuar el reto y saber cuál es tu misión, ¡apúntala para que no se te olvide!</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%F7%FE%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%E7%E8%FE%F7%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%F1%FD%FC%E6%E0%F3%E1%F7c%F3%B2%FC%F7%F1%F7%E1%F3%E0%FB%F3%B2%E2%F3%E0%F3%B2%F1%FD%FC%E6%FB%FC%E7%F3%E0%B2%F7%FE%B2%E0%F7%E6%FD%B2%EB%B2%E1%F3%F0%F7%E0%B2%F1%E7s%FE%B2%F7%E1%B2%E6%E7%B2%FF%FB%E1%FBa%FC%BE%B23%F3%E2h%FC%E6%F3%FE%F3%B2%E2%F3%E0%F3%B2%E3%E7%F7%B2%FC%FD%B2%E1%F7%B2%E6%F7%B2%FD%FE%E4%FB%F6%F7%B3%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%E6%E0%E7%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%F1%E7%F1%E7%E0%F0%FB%E6s%F1%F7%F3%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A3%A2%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%E6%E0%E7%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%AB%A1%F1%F7%F1%F6%A0%A3%BF%AB%F4%F3%AA%BF%A6%AA%F0%A0%BF%F3%A2%A6%A4%BF%F4%A4%A6%A6%A1%A0%F0%A5%A4%AB%A4%F0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F6%A0%A4%F3%A1%F6%F7%A1%BF%F7%F1%A0%A0%BF%A6%F7%A1%A1%BF%F0%AB%F6%F7%BF%F7%AA%A1%A4%A1%F0%A4%F6%F1%A3%A3%F4%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A3%A2%AA%A1%A3%A7%A5%A2%A2%BF%F6%E4%EA%E5%F9%AA%EA%E5%A6%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/Videojuego célula_bis.jpg" class="js-hidden puzzle-LinkImagesDef">0</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778108315700-dvxwk8xw4" data-evaluationb="false" data-evaluationid="d26a3de3-ec22-4e33-b9de-e8363b6dc11f"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve el siguiente puzles para obtener la contraseña necesaria para continuar el reto y saber cuál es tu misión, ¡apúntala para que no se te olvide!</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%F7%FE%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%E7%E8%FE%F7%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%F1%FD%FC%E6%E0%F3%E1%F7c%F3%B2%FC%F7%F1%F7%E1%F3%E0%FB%F3%B2%E2%F3%E0%F3%B2%F1%FD%FC%E6%FB%FC%E7%F3%E0%B2%F7%FE%B2%E0%F7%E6%FD%B2%EB%B2%E1%F3%F0%F7%E0%B2%F1%E7s%FE%B2%F7%E1%B2%E6%E7%B2%FF%FB%E1%FBa%FC%BE%B23%F3%E2h%FC%E6%F3%FE%F3%B2%E2%F3%E0%F3%B2%E3%E7%F7%B2%FC%FD%B2%E1%F7%B2%E6%F7%B2%FD%FE%E4%FB%F6%F7%B3%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%E6%E0%E7%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%F1%E7%F1%E7%E0%F0%FB%E6s%F1%F7%F3%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A3%A2%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%E6%E0%E7%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A3%F6%A6%F4%F6%F3%A5%AA%BF%AA%F0%A2%F7%BF%A6%F4%A5%F1%BF%F3%F4%F0%AA%BF%F4%A5%AA%AB%F1%A7%F7%A5%A0%A6%F4%A3%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F6%A0%A4%F3%A1%F6%F7%A1%BF%F7%F1%A0%A0%BF%A6%F7%A1%A1%BF%F0%AB%F6%F7%BF%F7%AA%A1%A4%A1%F0%A4%F6%F1%A3%A3%F4%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A3%A2%AA%A1%A3%A7%A5%A2%A2%BF%F6%E4%EA%E5%F9%AA%EA%E5%A6%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/Videojuego célula_bis.jpg" class="js-hidden puzzle-LinkImagesDef">0</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
@@ -724,7 +833,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
+      <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
       <odeBlockId>block-1778105933905-3fvavyphp</odeBlockId>
       <blockName>Candado</blockName>
       <iconName></iconName>
@@ -753,7 +862,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobs7-legz1b0dd</odePageId>
+          <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
           <odeBlockId>block-1778105933905-3fvavyphp</odeBlockId>
           <odeIdeviceId>idevice-1778105933901-2s806i60q</odeIdeviceId>
           <odeIdeviceTypeName>padlock</odeIdeviceTypeName>
@@ -796,11 +905,138 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
+      <odeBlockId>block-1778798496267-uh7ge1lij</odeBlockId>
+      <blockName>Consideraciones a tener en cuenta</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp9tohoy-wvg0msbhu</odePageId>
+          <odeBlockId>block-1778798496267-uh7ge1lij</odeBlockId>
+          <odeIdeviceId>idevice-1778798496265-94p771te1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A la hora de diseñar y codificar el videojuego, tened presentes las siguientes recomendaciones:</p>
+<ul>
+<li>El videojuego está destinado a estudiantes de vuestro mismo nivel educativo (Biología de 3ºESO), con el ánimo de hacerles más ameno el estudio de las partes de la neurona. </li>
+<li>Para facilitaros la tarea, reciclad el programa proporcionado y adaptarlo a la nueva temática. Una vez adaptado, explorad nuevas mecánicas de juego, como -por ejemplo- obtener más puntos si se responde rápido (y bien, claro).</li>
+<li>Tened en cuenta las distintas capacidades de las personas que accedan al juego, por lo que cuidad la accesibildad:
+<ul>
+<li>Definid tiempos holgados para leer los diálogos.</li>
+<li>No uséis fondos recargados que puedan interferir en la lectura.</li>
+<li>Considerad el uso de sonidos que marquen el inicio de un diálogo nuevo.</li>
+<li title="">Emplead combinaciones de colores con alto contraste. Podéis usar <a href="https://app.contrast-finder.org/?lang=es">este recurso</a> como ayuda.</li>
+</ul>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778798496265-94p771te1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A la hora de diseñar y codificar el videojuego, tened presentes las siguientes recomendaciones:</p>\n<ul>\n<li>El videojuego está destinado a estudiantes de vuestro mismo nivel educativo (Biología de 3ºESO), con el ánimo de hacerles más ameno el estudio de las partes de la neurona. </li>\n<li>Para facilitaros la tarea, reciclad el programa proporcionado y adaptarlo a la nueva temática. Una vez adaptado, explorad nuevas mecánicas de juego, como -por ejemplo- obtener más puntos si se responde rápido (y bien, claro).</li>\n<li>Tened en cuenta las distintas capacidades de las personas que accedan al juego, por lo que cuidad la accesibildad:\n<ul>\n<li>Definid tiempos holgados para leer los diálogos.</li>\n<li>No uséis fondos recargados que puedan interferir en la lectura.</li>\n<li>Considerad el uso de sonidos que marquen el inicio de un diálogo nuevo.</li>\n<li title=\"\">Emplead combinaciones de colores con alto contraste. Podéis usar <a href=\"https://app.contrast-finder.org/?lang=es\">este recurso</a> como ayuda.</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsb-lu56pv7jf</odePageId>
-  <odeParentPageId>page-mp5vobs2-ad1fxc3u2</odeParentPageId>
+  <odePageId>page-1779041469618-79ub15cg5</odePageId>
+  <odeParentPageId>page-mp9tohoy-wvg0msbhu</odeParentPageId>
+  <pageName>Tareas</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779041469618-79ub15cg5</odePageId>
+      <odeBlockId>block-1779041484494-lm7adn4a3</odeBlockId>
+      <blockName>Lista desordenada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779041469618-79ub15cg5</odePageId>
+          <odeBlockId>block-1779041484494-lm7adn4a3</odeBlockId>
+          <odeIdeviceId>idevice-1778107554175-63ywwnoa9</odeIdeviceId>
+          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-sortableList" id="slidevice-1778107554175-63ywwnoa9" scorm=false>
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1778107554175-63ywwnoa9" data-evaluationb="false" data-evaluationid="d26a3de3-ec22-4e33-b9de-e8363b6dc11f"></div>
+    <div class="exe-sortableList-instructions"><p>A continuación tienes, desordenada, la secuencia de un videojuego muy sencillo tal y como aparece en el diagrama de flujo que se elaboró para estructurar su funcionamiento y que viste tras resolver el puzle anterior.</p></div>
+    <ul class="exe-sortableList-list"><li>Inicio de juego</li><li>Declaración de variables.</li><li>Personaje: "Yo digo un nombre y tú lo señalas"</li><li>¿Quedan preguntas por responder? S/N</li><li>Programa: selecciona PREGUNTA aleatoria.</li><li>Personaje: dice PREGUNTA</li><li>Jugador/a: Responde</li><li>¿Respuesta correcta? Si es que sí, el personaje se alegra y el programa resta una pregunta por responder. Si es que no, el personaje se enfada.</li><li>¿Quedan preguntas por responder? Sí es que sí, sigue el juego; de lo contrario, se acaba.</li></ul>
+    <div style="display:none">
+        <p class="exe-sortableList-buttonText">Comprobar</p>
+        <p class="exe-sortableList-rightText">¡Correcto!</p>
+        <p class="exe-sortableList-wrongText">No es correcto... La respuesta correcta es:</p>
+    </div>
+    <div class="exe-scorm-message"></div>
+    <div class="exe-sortableList-textAfter"><p>Una vez ordenada la secuencia, elabora por tu cuenta el diagrama de flujo e introduce los cambios que quieras para personalizar la experiencia.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"ScrambledList","instructions":"<p>A continuación tienes, desordenada, la secuencia de un videojuego muy sencillo tal y como aparece en el diagrama de flujo que se elaboró para estructurar su funcionamiento y que viste tras resolver el puzle anterior.</p>","textAfter":"<p>Una vez ordenada la secuencia, elabora por tu cuenta el diagrama de flujo e introduce los cambios que quieras para personalizar la experiencia.</p>","afterElement":"<div class=\"exe-sortableList-textAfter\"><p>Una vez ordenada la secuencia, elabora por tu cuenta el diagrama de flujo e introduce los cambios que quieras para personalizar la experiencia.</p></div>","options":["Inicio de juego","Declaración de variables.","Personaje: \"Yo digo un nombre y tú lo señalas\"","¿Quedan preguntas por responder? S/N","Programa: selecciona PREGUNTA aleatoria.","Personaje: dice PREGUNTA","Jugador/a: Responde","¿Respuesta correcta? Si es que sí, el personaje se alegra y el programa resta una pregunta por responder. Si es que no, el personaje se enfada.","¿Quedan preguntas por responder? Sí es que sí, sigue el juego; de lo contrario, se acaba."],"time":0,"buttonText":"Comprobar","rightText":"¡Correcto!","wrongText":"No es correcto... La respuesta correcta es:","isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"d26a3de3-ec22-4e33-b9de-e8363b6dc11f","main":"slidevice-1778107554175-63ywwnoa9","msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Su puntuación","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Lista desordenada","msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgPlayStart":"Pulsa aquí para jugar","msgTime":"Tiempo por pregunta","msgCheck":"Comprobar","msgSaveScore":"Guardar la puntuación","msgTestFailed":"No has superado la prueba. Inténtalo de nuevo","msgRetryAttempts":"Has cometido %s errores. Te quedan %s intentos. ¿Quieres intentarlo de nuevo?"},"scorerp":0,"idevice":"idevice_node","showSolutions":true,"attemptsNumber":1,"id":"idevice-1778107554175-63ywwnoa9"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp9tohp4-55dyd0342</odePageId>
+  <odeParentPageId>page-mp9tohot-7ii2raeva</odeParentPageId>
   <pageName>Electro</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -835,7 +1071,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsb-lu56pv7jf</odePageId>
+      <odePageId>page-mp9tohp4-55dyd0342</odePageId>
       <odeBlockId>block-1778079465880-y8rnu3jzh</odeBlockId>
       <blockName>Puzle</blockName>
       <iconName></iconName>
@@ -864,7 +1100,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsb-lu56pv7jf</odePageId>
+          <odePageId>page-mp9tohp4-55dyd0342</odePageId>
           <odeBlockId>block-1778079465880-y8rnu3jzh</odeBlockId>
           <odeIdeviceId>idevice-1778079465879-f61los2se</odeIdeviceId>
           <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
@@ -907,7 +1143,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp5vobsb-lu56pv7jf</odePageId>
+      <odePageId>page-mp9tohp4-55dyd0342</odePageId>
       <odeBlockId>block-1778100929096-8zcnwrnbw</odeBlockId>
       <blockName>Candado</blockName>
       <iconName></iconName>
@@ -936,7 +1172,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsb-lu56pv7jf</odePageId>
+          <odePageId>page-mp9tohp4-55dyd0342</odePageId>
           <odeBlockId>block-1778100929096-8zcnwrnbw</odeBlockId>
           <odeIdeviceId>idevice-1778100929092-opgs5h5xo</odeIdeviceId>
           <odeIdeviceTypeName>padlock</odeIdeviceTypeName>
@@ -966,8 +1202,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsd-pr6i16qsc</odePageId>
-  <odeParentPageId>page-mp5vobrv-hfctni0q9</odeParentPageId>
+  <odePageId>page-mp9tohp6-i7r9uevoz</odePageId>
+  <odeParentPageId>page-mp9tohok-9nawpqmd8</odeParentPageId>
   <pageName>2ª y 3ª sesión</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1002,7 +1238,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsd-pr6i16qsc</odePageId>
+      <odePageId>page-mp9tohp6-i7r9uevoz</odePageId>
       <odeBlockId>block-1778017538938-lcboj8xcy</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1031,14 +1267,22 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsd-pr6i16qsc</odePageId>
+          <odePageId>page-mp9tohp6-i7r9uevoz</odePageId>
           <odeBlockId>block-1778017538938-lcboj8xcy</odeBlockId>
           <odeIdeviceId>idevice-1778017538935-223qjmttc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>110 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Sacamos adelante las tareas previamente priorizadas para cada uno de los productos.</p></div>
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>110 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Sacamos adelante las tareas previamente priorizadas para cada uno de los productos. Recordad:</p>
+<ul>
+<li>Si no entendéis algo, <strong>preguntad</strong>.</li>
+<li>Si dudáis de qué paso es el siguiente, <strong>preguntad</strong>.</li>
+<li>Si queréis aseguraros de que vais por buen camino, <strong>preguntad</strong>.</li>
+</ul>
+<p><strong>Preguntad</strong> al/la profesor/a.</p>
+<p><strong>Preguntad </strong>a vuestras/os compañeras/os. </p>
+<p><span style="background-color: #bfedd2;"><em>Quien pregunta una vez, es ignorante una vez. Quien no prgunta nunca, es ignorante toda su vida.</em></span><br /></p></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778017538935-223qjmttc","textInfoDurationInput":"110 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>110 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Sacamos adelante las tareas previamente priorizadas para cada uno de los productos.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778017538935-223qjmttc","textInfoDurationInput":"110 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>110 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Sacamos adelante las tareas previamente priorizadas para cada uno de los productos. Recordad:</p>\n<ul>\n<li>Si no entendéis algo, <strong>preguntad</strong>.</li>\n<li>Si dudáis de qué paso es el siguiente, <strong>preguntad</strong>.</li>\n<li>Si queréis aseguraros de que vais por buen camino, <strong>preguntad</strong>.</li>\n</ul>\n<p><strong>Preguntad</strong> al/la profesor/a.</p>\n<p><strong>Preguntad </strong>a vuestras/os compañeras/os. </p>\n<p><span style=\"background-color: #bfedd2;\"><em>Quien pregunta una vez, es ignorante una vez. Quien no prgunta nunca, es ignorante toda su vida.</em></span><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1060,8 +1304,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsf-b37gzx8ss</odePageId>
-  <odeParentPageId>page-mp5vobrv-hfctni0q9</odeParentPageId>
+  <odePageId>page-mp9tohp7-teygeatyh</odePageId>
+  <odeParentPageId>page-mp9tohok-9nawpqmd8</odeParentPageId>
   <pageName>4ª sesión</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1096,7 +1340,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsf-b37gzx8ss</odePageId>
+      <odePageId>page-mp9tohp7-teygeatyh</odePageId>
       <odeBlockId>block-1778017554907-kj4fpjjx2</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1125,7 +1369,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsf-b37gzx8ss</odePageId>
+          <odePageId>page-mp9tohp7-teygeatyh</odePageId>
           <odeBlockId>block-1778017554907-kj4fpjjx2</odeBlockId>
           <odeIdeviceId>idevice-1778017554906-eiy59vkao</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1185,8 +1429,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsg-cza9nqgbd</odePageId>
-  <odeParentPageId>page-mp5vobrv-hfctni0q9</odeParentPageId>
+  <odePageId>page-mp9tohp8-8xqziu037</odePageId>
+  <odeParentPageId>page-mp9tohok-9nawpqmd8</odeParentPageId>
   <pageName>5ª y 6ª sesión</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1221,7 +1465,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsg-cza9nqgbd</odePageId>
+      <odePageId>page-mp9tohp8-8xqziu037</odePageId>
       <odeBlockId>block-1778017591321-0k5865cxo</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1250,14 +1494,22 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsg-cza9nqgbd</odePageId>
+          <odePageId>page-mp9tohp8-8xqziu037</odePageId>
           <odeBlockId>block-1778017591321-0k5865cxo</odeBlockId>
           <odeIdeviceId>idevice-1778017591319-058b4nmea</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>110 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>En este tiempo incorporamos las críticas de la sesión anterior y terminamos los productos.</p></div>
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>110 minutos</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>En este tiempo incorporamos las críticas de la sesión anterior y terminamos los productos. Y recordad:</p>
+<ul>
+<li>Si no entendéis algo, <strong>preguntad</strong>.</li>
+<li>Si dudáis de qué paso es el siguiente, <strong>preguntad</strong>.</li>
+<li>Si queréis aseguraros de que vais por buen camino, <strong>preguntad</strong>.</li>
+</ul>
+<p><br /><strong>Preguntad</strong> al/la profesor/a.</p>
+<p><strong>Preguntad </strong>a vuestras/os compañeras/os. </p>
+<p><span style="background-color: #bfedd2;">Quien pregunta una vez, es ignorante una vez. Quien no prgunta nunca, es ignorante toda su vida.</span></p></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778017591319-058b4nmea","textInfoDurationInput":"110 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>110 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>En este tiempo incorporamos las críticas de la sesión anterior y terminamos los productos.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778017591319-058b4nmea","textInfoDurationInput":"110 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>110 minutos</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>En este tiempo incorporamos las críticas de la sesión anterior y terminamos los productos. Y recordad:</p>\n<ul>\n<li>Si no entendéis algo, <strong>preguntad</strong>.</li>\n<li>Si dudáis de qué paso es el siguiente, <strong>preguntad</strong>.</li>\n<li>Si queréis aseguraros de que vais por buen camino, <strong>preguntad</strong>.</li>\n</ul>\n<p><br /><strong>Preguntad</strong> al/la profesor/a.</p>\n<p><strong>Preguntad </strong>a vuestras/os compañeras/os. </p>\n<p><span style=\"background-color: #bfedd2;\">Quien pregunta una vez, es ignorante una vez. Quien no prgunta nunca, es ignorante toda su vida.</span></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1279,7 +1531,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsi-a6tfcab5o</odePageId>
+  <odePageId>page-mp9tohpa-kxjtr881x</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Evaluación</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -1315,7 +1567,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsi-a6tfcab5o</odePageId>
+      <odePageId>page-mp9tohpa-kxjtr881x</odePageId>
       <odeBlockId>block-1778791780807-fyzfeouvk</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1344,16 +1596,34 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsi-a6tfcab5o</odePageId>
+          <odePageId>page-mp9tohpa-kxjtr881x</odePageId>
           <odeBlockId>block-1778791780807-fyzfeouvk</odeBlockId>
           <odeIdeviceId>idevice-1778791780804-jub27g052</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>En el menú desplegable podéis acceder a los instrumentos de evaluación que se emplearán para cada uno de los productos realizados.</p>
+    <p>Se realizarán <strong>dos evaluaciones</strong>:</p>
+<ul>
+<li>La <strong>primera</strong>, una evaluación <strong>provisional </strong>en la <strong>cuarta sesión </strong>que nos servirá para identificar aquellos aspectos de cada producto que se encuentran asentados, cuáles en desarrollo y cuáles aún por comenzar.</li>
+<li>La <strong>segunda</strong>, tras la sexta y <strong>última sesión</strong>, será la <strong>definitiva</strong>.</li>
+</ul>
+<p>En ambos casos, para cada uno de los productos realizados, se emplearán los mismos instrumentos de evaluación, a los cuales podéis acceder desde el menú desplegable correspondiente a cada uno de los productos finales.</p>
+<p>Asimismo, tanto en la cuarta como en la última sesión se evaluará el <strong>trabajo en equipo</strong>, empleando la rúbrica correspondiente que también podéis consultar desde el menú.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778791780804-jub27g052","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el menú desplegable podéis acceder a los instrumentos de evaluación que se emplearán para cada uno de los productos realizados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778791780804-jub27g052","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se realizarán <strong>dos evaluaciones</strong>:</p>\n<ul>\n<li>La <strong>primera</strong>, una evaluación <strong>provisional </strong>en la <strong>cuarta sesión </strong>que nos servirá para identificar aquellos aspectos de cada producto que se encuentran asentados, cuáles en desarrollo y cuáles aún por comenzar.</li>\n<li>La <strong>segunda</strong>, tras la sexta y <strong>última sesión</strong>, será la <strong>definitiva</strong>.</li>\n</ul>\n<p>En ambos casos, para cada uno de los productos realizados, se emplearán los mismos instrumentos de evaluación, a los cuales podéis acceder desde el menú desplegable correspondiente a cada uno de los productos finales.</p>\n<p>Asimismo, tanto en la cuarta como en la última sesión se evaluará el <strong>trabajo en equipo</strong>, empleando la rúbrica correspondiente que también podéis consultar desde el menú.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1361,8 +1631,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsj-dk18o6016</odePageId>
-  <odeParentPageId>page-mp5vobsi-a6tfcab5o</odeParentPageId>
+  <odePageId>page-mp9tohpc-lh5pihw8e</odePageId>
+  <odeParentPageId>page-mp9tohpa-kxjtr881x</odeParentPageId>
   <pageName>Infografía</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1397,7 +1667,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsj-dk18o6016</odePageId>
+      <odePageId>page-mp9tohpc-lh5pihw8e</odePageId>
       <odeBlockId>block-1778017010491-gnvaxt3mj</odeBlockId>
       <blockName>Rúbrica</blockName>
       <iconName></iconName>
@@ -1426,7 +1696,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsj-dk18o6016</odePageId>
+          <odePageId>page-mp9tohpc-lh5pihw8e</odePageId>
           <odeBlockId>block-1778017010491-gnvaxt3mj</odeBlockId>
           <odeIdeviceId>idevice-1778017010487-ogjrssi1b</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -1453,8 +1723,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsk-miaqha9l0</odePageId>
-  <odeParentPageId>page-mp5vobsi-a6tfcab5o</odeParentPageId>
+  <odePageId>page-mp9tohpd-u47yq58ir</odePageId>
+  <odeParentPageId>page-mp9tohpa-kxjtr881x</odeParentPageId>
   <pageName>Videojuego</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1489,7 +1759,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsk-miaqha9l0</odePageId>
+      <odePageId>page-mp9tohpd-u47yq58ir</odePageId>
       <odeBlockId>block-1778112066980-fko1gblea</odeBlockId>
       <blockName>Lista de cotejo</blockName>
       <iconName></iconName>
@@ -1518,11 +1788,28 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsk-miaqha9l0</odePageId>
+          <odePageId>page-mp9tohpd-u47yq58ir</odePageId>
           <odeBlockId>block-1778112066980-fko1gblea</odeBlockId>
           <odeIdeviceId>idevice-1778112066978-gjm6o81w3</odeIdeviceId>
           <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A3%A3%A0%A2%A4%A4%AB%A5%AA%BF%F5%F8%FF%A4%FD%AA%A3%E5%A1%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%D0%FB%FD%FE%FD%FC%FD%FF%F0%E0%F7%E1%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A1%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A7%BC%AA%A0%A7%AB%E2%EA%A9%CE%B0%AC%DB%FC%F1%FE%E7%EB%F7%B2%FE%F3%E1%B2%E2%F3%E0%E6%F7%E1%B2%F6%F7%B2%FE%F3%B2%FC%F7%E7%E0%FD%FC%F3%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DCh%F1%FE%F7%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%E7%F7%E0%E2%FD%B2%FD%B2%E1%FD%FF%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D6%F7%FC%F6%E0%FB%E6%F3%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D3%EAa%FC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C4%F3%FB%FC%F3%B2%F6%F7%B2%FF%FB%F7%FE%FB%FC%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%7B%FE%E7%FE%F3%B2%F6%F7%B2%C1%F1%FA%E5%F3%FC%FC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C6%F7%E0%FF%FB%FC%F3%FE%B2%F6%F7%FE%B2%F3%EAa%FC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DF%FD%F6%FB%F4%FB%F1%F3%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%FA%F7%E0%F7%F6%F3%F6%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D3c%F3%F6%F7%B2%E7%FC%F3%B2%FC%E7%F7%E4%F3%B2%F4%E7%FC%F1%FB%FD%FC%F3%FE%FB%F6%F3%F6%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A4%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%E6%E0%E7%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A3%A3%A0%A2%A4%A4%AB%A5%AA%BF%F5%F8%FF%A4%FD%AA%A3%E5%A1%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%D0%FB%FD%FE%FD%FC%FD%FF%F0%E0%F7%E1%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A1%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A7%BC%AA%A0%A7%AB%E2%EA%A9%CE%B0%AC%DB%FC%F1%FE%E7%EB%F7%B2%FE%F3%E1%B2%E2%F3%E0%E6%F7%E1%B2%F6%F7%B2%FE%F3%B2%FC%F7%E7%E0%FD%FC%F3%BC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DCh%F1%FE%F7%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%E7%F7%E0%E2%FD%B2%FD%B2%E1%FD%FF%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D6%F7%FC%F6%E0%FB%E6%F3%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D3%EAa%FC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C4%F3%FB%FC%F3%B2%F6%F7%B2%FF%FB%F7%FE%FB%FC%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%7B%FE%E7%FE%F3%B2%F6%F7%B2%C1%F1%FA%E5%F3%FC%FC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C6%F7%E0%FF%FB%FC%F3%FE%B2%F6%F7%FE%B2%F3%EAa%FC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DF%FD%F6%FB%F4%FB%F1%F3%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%FA%F7%E0%F7%F6%F3%F6%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D3c%F3%F6%F7%B2%E7%FC%F3%B2%FC%E7%F7%E4%F3%B2%F4%E7%FC%F1%FB%FD%FC%F3%FE%FB%F6%F3%F6%B8%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A4%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%E6%E0%E7%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div><div class="listacotejo-extra-content"><p>* Una <strong>nueva funcionalidad</strong> puede ser, por ejemplo:</p>
+<ul>
+<li>El personaje realiza algún diálogo diferente.
+<ul>
+<li>Pregunta lo mismo hasata que se acierta.</li>
+<li>Ofrece repetir una vez terminado el juego.</li>
+<li>Da alguna pista si lo pides o si te equivocas.</li>
+<li>Explica la función de cada parte cuando se acierta.</li>
+</ul>
+</li>
+<li>El personaje hace algún movimiento cuando se acierta o falla alguna pregunta.</li>
+<li>Las letras hacen alguna animación:
+<ul>
+<li>Cuando se posa el ratón y/o se hace clic sobre ellas.</li>
+<li>Cuando se acierta o falla una pregunta.</li>
+</ul>
+</li>
+</ul></div></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
@@ -1545,8 +1832,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsm-mj2pg3f2o</odePageId>
-  <odeParentPageId>page-mp5vobsi-a6tfcab5o</odeParentPageId>
+  <odePageId>page-mp9tohpe-4vve22bi3</odePageId>
+  <odeParentPageId>page-mp9tohpa-kxjtr881x</odeParentPageId>
   <pageName>Electro</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1581,7 +1868,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsm-mj2pg3f2o</odePageId>
+      <odePageId>page-mp9tohpe-4vve22bi3</odePageId>
       <odeBlockId>block-1778017240335-heu1eim4f</odeBlockId>
       <blockName>Rúbrica</blockName>
       <iconName></iconName>
@@ -1610,7 +1897,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsm-mj2pg3f2o</odePageId>
+          <odePageId>page-mp9tohpe-4vve22bi3</odePageId>
           <odeBlockId>block-1778017240335-heu1eim4f</odeBlockId>
           <odeIdeviceId>idevice-1778017240333-7d4kvg4a7</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -1637,8 +1924,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobsn-i0k3bdewv</odePageId>
-  <odeParentPageId>page-mp5vobsi-a6tfcab5o</odeParentPageId>
+  <odePageId>page-mp9tohpf-0gty9da1i</odePageId>
+  <odeParentPageId>page-mp9tohpa-kxjtr881x</odeParentPageId>
   <pageName>Trabajo en equipo</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1681,7 +1968,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobsn-i0k3bdewv</odePageId>
+      <odePageId>page-mp9tohpf-0gty9da1i</odePageId>
       <odeBlockId>block-1778017271614-a7h0u5ncc</odeBlockId>
       <blockName>Rúbrica</blockName>
       <iconName></iconName>
@@ -1710,7 +1997,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobsn-i0k3bdewv</odePageId>
+          <odePageId>page-mp9tohpf-0gty9da1i</odePageId>
           <odeBlockId>block-1778017271614-a7h0u5ncc</odeBlockId>
           <odeIdeviceId>idevice-1778017271611-ehdlscjai</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -1737,7 +2024,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp5vobso-ans1hv6k1</odePageId>
+  <odePageId>page-mp9tohph-b5w3yqy4h</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Atribución y descarga</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -1773,7 +2060,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp5vobso-ans1hv6k1</odePageId>
+      <odePageId>page-mp9tohph-b5w3yqy4h</odePageId>
       <odeBlockId>block-1778017721140-xo9zsomzt</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1802,7 +2089,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp5vobso-ans1hv6k1</odePageId>
+          <odePageId>page-mp9tohph-b5w3yqy4h</odePageId>
           <odeBlockId>block-1778017721140-xo9zsomzt</odeBlockId>
           <odeIdeviceId>idevice-1778017721137-3cg2mnnxw</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
